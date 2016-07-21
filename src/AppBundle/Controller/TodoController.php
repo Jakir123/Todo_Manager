@@ -1,7 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Jakir Pc
+ * Created by Jakir Hossain.
  * Date: 7/18/2016
  * Time: 10:37 PM
  */
